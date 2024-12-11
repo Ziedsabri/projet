@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .contact-section {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+  }
+  
+  form .form-label {
+    font-weight: bold;
+  }
+  
+  button[type="submit"] {
+    font-size: 1.1rem;
+    padding: 10px;
+  }
+  
+  button:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(38, 143, 255, 0.5);
+  }
+  
+  .social-links a {
+    font-size: 1.5rem;
+    transition: transform 0.3s;
+  }
+  
+  .social-links a:hover {
+    transform: scale(1.1);
+  }
+  
