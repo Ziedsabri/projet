@@ -1,5 +1,6 @@
 
 function togglePassword() {
+    
     const passwordField = document.getElementById('password');
     const eyeIcon = document.getElementById('eyeIcon');
     if (passwordField.type === 'password') {
